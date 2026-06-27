@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-bg-base: 255 255 255;
+    --color-fg: 12 17 24;
+    --color-fg-muted: 75 85 99;
+    --color-fg-faint: 183 189 198;
+    --color-surface-elevated: 241 243 245;
+  }
+
+  .dark:root {
+    --color-bg-base: 0 0 0;
+    --color-fg: 245 247 250;
+    --color-fg-muted: 183 189 198;
+    --color-fg-faint: 75 85 99;
+    --color-surface-elevated: 26 31 41;
+  }
+}

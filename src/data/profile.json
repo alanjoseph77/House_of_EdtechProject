@@ -1,0 +1,47 @@
+{
+  "id": "u1",
+  "name": "Alan Joseph",
+  "email": "alanjoseph@gmail.com",
+  "avatarUrl": "https://i.pravatar.cc/300?img=12",
+  "membership": "Premium Member",
+  "stats": [
+    { "id": "watchlist", "label": "Watchlist", "value": 24 },
+    { "id": "downloads", "label": "Downloads", "value": 8 },
+    { "id": "reviews", "label": "Reviews", "value": 12 }
+  ],
+  "settingsSections": [
+    {
+      "id": "appearance",
+      "title": "Appearance",
+      "items": [
+        { "id": "dark-mode", "label": "Dark Mode", "icon": "moon-outline", "type": "toggle", "defaultEnabled": true }
+      ]
+    },
+    {
+      "id": "account",
+      "title": "Account",
+      "items": [
+        { "id": "edit-profile", "label": "Edit Profile", "icon": "person-outline", "type": "navigation" },
+        { "id": "manage-subscription", "label": "Manage Subscription", "icon": "card-outline", "type": "navigation" }
+      ]
+    },
+    {
+      "id": "preferences",
+      "title": "Preferences",
+      "items": [
+        { "id": "notifications", "label": "Notifications", "icon": "notifications-outline", "type": "toggle", "defaultEnabled": true },
+        { "id": "autoplay", "label": "Autoplay Next Episode", "icon": "play-outline", "type": "toggle", "defaultEnabled": true },
+        { "id": "download-quality", "label": "Download Quality", "icon": "cloud-download-outline", "type": "value", "value": "HD" }
+      ]
+    },
+    {
+      "id": "support",
+      "title": "Support",
+      "items": [
+        { "id": "help", "label": "Help & Support", "icon": "help-circle-outline", "type": "navigation" },
+        { "id": "about", "label": "About App", "icon": "information-circle-outline", "type": "navigation" }
+      ]
+    }
+  ],
+  "appVersion": "1.0.0"
+}

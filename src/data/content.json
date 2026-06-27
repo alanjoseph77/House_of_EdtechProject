@@ -1,0 +1,306 @@
+{
+  "heroItems": [
+    {
+      "id": "h1",
+      "title": "Inception",
+      "posterUrl": "https://image.tmdb.org/t/p/w780/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w1280/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+      "genres": ["Sci-Fi", "Action", "Thriller"],
+      "rating": "U/A 13+",
+      "score": 8.8,
+      "durationMinutes": 148,
+      "releaseYear": 2010,
+      "description": "A skilled thief is given a chance at redemption if he can successfully perform an act of corporate espionage by planting an idea into a target's subconscious.",
+      "cast": [
+        { "characterName": "Dom Cobb", "actorName": "Leonardo DiCaprio", "photoUrl": "https://i.pravatar.cc/150?img=1" },
+        { "characterName": "Arthur", "actorName": "Joseph Gordon-Levitt", "photoUrl": "https://i.pravatar.cc/150?img=2" },
+        { "characterName": "Ariadne", "actorName": "Elliot Page", "photoUrl": "https://i.pravatar.cc/150?img=3" }
+      ]
+    },
+    {
+      "id": "h2",
+      "title": "The Dark Knight",
+      "posterUrl": "https://image.tmdb.org/t/p/w780/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w1280/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
+      "genres": ["Action", "Crime", "Drama"],
+      "rating": "U/A 16+",
+      "score": 9.0,
+      "durationMinutes": 152,
+      "releaseYear": 2008,
+      "description": "When the menace known as the Joker wreaks havoc on Gotham, Batman must accept one of the greatest psychological tests of his ability to fight injustice.",
+      "cast": [
+        { "characterName": "Bruce Wayne", "actorName": "Christian Bale", "photoUrl": "https://i.pravatar.cc/150?img=4" },
+        { "characterName": "Joker", "actorName": "Heath Ledger", "photoUrl": "https://i.pravatar.cc/150?img=5" },
+        { "characterName": "Harvey Dent", "actorName": "Aaron Eckhart", "photoUrl": "https://i.pravatar.cc/150?img=6" }
+      ]
+    },
+    {
+      "id": "h3",
+      "title": "Interstellar",
+      "posterUrl": "https://image.tmdb.org/t/p/w780/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w1280/2ssWTSVklAEc98frZUQhgtGHx7s.jpg",
+      "genres": ["Sci-Fi", "Drama", "Adventure"],
+      "rating": "U/A 13+",
+      "score": 8.6,
+      "durationMinutes": 169,
+      "releaseYear": 2014,
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "cast": [
+        { "characterName": "Cooper", "actorName": "Matthew McConaughey", "photoUrl": "https://i.pravatar.cc/150?img=7" },
+        { "characterName": "Amelia Brand", "actorName": "Anne Hathaway", "photoUrl": "https://i.pravatar.cc/150?img=8" },
+        { "characterName": "Murph", "actorName": "Jessica Chastain", "photoUrl": "https://i.pravatar.cc/150?img=9" }
+      ]
+    }
+  ],
+  "rows": [
+    {
+      "id": "trending",
+      "title": "Trending Now",
+      "items": [
+        {
+          "id": "t1",
+          "title": "Stranger Things",
+          "posterUrl": "https://image.tmdb.org/t/p/w780/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/w1280/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+          "genres": ["Sci-Fi", "Horror", "Drama"],
+          "rating": "U/A 16+",
+          "score": 8.7,
+          "durationMinutes": 50,
+          "releaseYear": 2016,
+          "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments and supernatural forces.",
+          "cast": [
+            { "characterName": "Eleven", "actorName": "Millie Bobby Brown", "photoUrl": "https://i.pravatar.cc/150?img=10" },
+            { "characterName": "Mike Wheeler", "actorName": "Finn Wolfhard", "photoUrl": "https://i.pravatar.cc/150?img=11" },
+            { "characterName": "Joyce Byers", "actorName": "Winona Ryder", "photoUrl": "https://i.pravatar.cc/150?img=12" }
+          ]
+        },
+        {
+          "id": "t2",
+          "title": "The Mandalorian",
+          "posterUrl": "https://image.tmdb.org/t/p/w780/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/w1280/9zcbqSxdsRMZWHYtyCd1nXPr2xq.jpg",
+          "genres": ["Sci-Fi", "Action", "Adventure"],
+          "rating": "U/A 13+",
+          "score": 8.7,
+          "durationMinutes": 40,
+          "releaseYear": 2019,
+          "description": "A lone bounty hunter makes his way through the outer reaches of the galaxy, far from the New Republic.",
+          "cast": [
+            { "characterName": "Din Djarin", "actorName": "Pedro Pascal", "photoUrl": "https://i.pravatar.cc/150?img=13" },
+            { "characterName": "Greef Karga", "actorName": "Carl Weathers", "photoUrl": "https://i.pravatar.cc/150?img=14" },
+            { "characterName": "Moff Gideon", "actorName": "Giancarlo Esposito", "photoUrl": "https://i.pravatar.cc/150?img=15" }
+          ]
+        },
+        {
+          "id": "t3",
+          "title": "Breaking Bad",
+          "posterUrl": "https://image.tmdb.org/t/p/w780/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/w1280/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+          "genres": ["Crime", "Drama", "Thriller"],
+          "rating": "U/A 16+",
+          "score": 9.5,
+          "durationMinutes": 47,
+          "releaseYear": 2008,
+          "description": "A chemistry teacher diagnosed with cancer turns to manufacturing drugs to secure his family's future.",
+          "cast": [
+            { "characterName": "Walter White", "actorName": "Bryan Cranston", "photoUrl": "https://i.pravatar.cc/150?img=16" },
+            { "characterName": "Jesse Pinkman", "actorName": "Aaron Paul", "photoUrl": "https://i.pravatar.cc/150?img=17" },
+            { "characterName": "Skyler White", "actorName": "Anna Gunn", "photoUrl": "https://i.pravatar.cc/150?img=18" }
+          ]
+        },
+        {
+          "id": "t4",
+          "title": "The Crown",
+          "posterUrl": "https://image.tmdb.org/t/p/w780/1M876KPjulVwppEpldhdc8V4o68.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/w1280/8VXhcrl5z2I1zEU9X3pkkNrZlD.jpg",
+          "genres": ["Drama", "History"],
+          "rating": "U/A 13+",
+          "score": 8.6,
+          "durationMinutes": 58,
+          "releaseYear": 2016,
+          "description": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the twentieth century.",
+          "cast": [
+            { "characterName": "Queen Elizabeth II", "actorName": "Claire Foy", "photoUrl": "https://i.pravatar.cc/150?img=19" },
+            { "characterName": "Queen Elizabeth II", "actorName": "Olivia Colman", "photoUrl": "https://i.pravatar.cc/150?img=20" },
+            { "characterName": "Prince Philip", "actorName": "Matt Smith", "photoUrl": "https://i.pravatar.cc/150?img=21" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "popular",
+      "title": "Popular Movies",
+      "items": [
+        {
+          "id": "p1",
+          "title": "The Shawshank Redemption",
+          "posterUrl": "https://image.tmdb.org/t/p/w780/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/w1280/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+          "genres": ["Drama"],
+          "rating": "U/A 13+",
+          "score": 9.3,
+          "durationMinutes": 142,
+          "releaseYear": 1994,
+          "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+          "cast": [
+            { "characterName": "Andy Dufresne", "actorName": "Tim Robbins", "photoUrl": "https://i.pravatar.cc/150?img=22" },
+            { "characterName": "Red", "actorName": "Morgan Freeman", "photoUrl": "https://i.pravatar.cc/150?img=23" }
+          ]
+        },
+        {
+          "id": "p2",
+          "title": "Parasite",
+          "posterUrl": "https://image.tmdb.org/t/p/w780/igICOruFgiqdY1HXwTNRuXJute.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/w1280/wCuUKiRaz0wEESsYqmQy005xvTE.jpg",
+          "genres": ["Thriller", "Drama"],
+          "rating": "U/A 16+",
+          "score": 8.5,
+          "durationMinutes": 132,
+          "releaseYear": 2019,
+          "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+          "cast": [
+            { "characterName": "Kim Ki-taek", "actorName": "Song Kang-ho", "photoUrl": "https://i.pravatar.cc/150?img=24" },
+            { "characterName": "Park Dong-ik", "actorName": "Lee Sun-kyun", "photoUrl": "https://i.pravatar.cc/150?img=25" },
+            { "characterName": "Choi Yeon-gyo", "actorName": "Cho Yeo-jeong", "photoUrl": "https://i.pravatar.cc/150?img=26" }
+          ]
+        },
+        {
+          "id": "p3",
+          "title": "Mad Max: Fury Road",
+          "posterUrl": "https://image.tmdb.org/t/p/w780/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/w1280/uT895WNwm0aIJRtGizcQhrejWUo.jpg",
+          "genres": ["Action", "Adventure", "Sci-Fi"],
+          "rating": "U/A 16+",
+          "score": 8.1,
+          "durationMinutes": 120,
+          "releaseYear": 2015,
+          "description": "In a post-apocalyptic wasteland, Max teams up with a mysterious woman to flee from a tyrannical warlord and his army.",
+          "cast": [
+            { "characterName": "Max Rockatansky", "actorName": "Tom Hardy", "photoUrl": "https://i.pravatar.cc/150?img=27" },
+            { "characterName": "Furiosa", "actorName": "Charlize Theron", "photoUrl": "https://i.pravatar.cc/150?img=28" },
+            { "characterName": "Nux", "actorName": "Nicholas Hoult", "photoUrl": "https://i.pravatar.cc/150?img=29" }
+          ]
+        },
+        {
+          "id": "p4",
+          "title": "Spider-Man: No Way Home",
+          "posterUrl": "https://image.tmdb.org/t/p/w780/tJ44EffQBBUMc61xa8QDz0oijQT.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/w1280/AeK2MPOpYrOOgZNfFnfwp0L8tNn.jpg",
+          "genres": ["Action", "Adventure", "Sci-Fi"],
+          "rating": "U/A 13+",
+          "score": 8.2,
+          "durationMinutes": 148,
+          "releaseYear": 2021,
+          "description": "With his identity revealed, Peter Parker asks Doctor Strange for help, leading to a dangerous battle that forces him to discover what it truly means to be Spider-Man.",
+          "cast": [
+            { "characterName": "Peter Parker", "actorName": "Tom Holland", "photoUrl": "https://i.pravatar.cc/150?img=30" },
+            { "characterName": "MJ", "actorName": "Zendaya", "photoUrl": "https://i.pravatar.cc/150?img=31" },
+            { "characterName": "Doctor Strange", "actorName": "Benedict Cumberbatch", "photoUrl": "https://i.pravatar.cc/150?img=32" }
+          ]
+        }
+      ]
+    }
+  ],
+  "popularGrid": {
+    "id": "popular-grid",
+    "title": "Popular",
+    "items": [
+      {
+        "id": "g1",
+        "title": "Last Night in Soho",
+        "posterUrl": "https://image.tmdb.org/t/p/w780/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w1280/nPWy5KISy7BbUOQcg588dflKzTL.jpg",
+        "genres": ["Mystery", "Thriller", "Horror"],
+        "rating": "U/A 16+",
+        "score": 6.8,
+        "durationMinutes": 116,
+        "releaseYear": 2021,
+        "description": "A young woman is mysteriously able to enter the 1960s, where she encounters a dazzling wannabe singer, but the glamour is not all it appears to be.",
+        "cast": [
+          { "characterName": "Eloise", "actorName": "Thomasin McKenzie", "photoUrl": "https://i.pravatar.cc/150?img=33" },
+          { "characterName": "Sandie", "actorName": "Anya Taylor-Joy", "photoUrl": "https://i.pravatar.cc/150?img=34" }
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "Moonlight",
+        "posterUrl": "https://image.tmdb.org/t/p/w780/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w1280/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg",
+        "genres": ["Drama"],
+        "rating": "U/A 16+",
+        "score": 7.4,
+        "durationMinutes": 111,
+        "releaseYear": 2016,
+        "description": "A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and adulthood.",
+        "cast": [
+          { "characterName": "Juan", "actorName": "Mahershala Ali", "photoUrl": "https://i.pravatar.cc/150?img=35" },
+          { "characterName": "Chiron", "actorName": "Trevante Rhodes", "photoUrl": "https://i.pravatar.cc/150?img=36" }
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "Mary Shelley",
+        "posterUrl": "https://image.tmdb.org/t/p/w780/gKHJTsrfxJtfFNPQJn2hDNEMtFf.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w1280/iGm4RpRv5zEsdUPGZRems4KYFgg.jpg",
+        "genres": ["Drama", "Romance", "Biography"],
+        "rating": "U/A 13+",
+        "score": 6.5,
+        "durationMinutes": 120,
+        "releaseYear": 2017,
+        "description": "The story of young Mary Wollstonecraft Godwin's romance with the poet Percy Shelley, and the events leading to the writing of Frankenstein.",
+        "cast": [
+          { "characterName": "Mary Shelley", "actorName": "Elle Fanning", "photoUrl": "https://i.pravatar.cc/150?img=37" },
+          { "characterName": "Percy Shelley", "actorName": "Douglas Booth", "photoUrl": "https://i.pravatar.cc/150?img=38" }
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "Pig",
+        "posterUrl": "https://image.tmdb.org/t/p/w780/1InMm4Mbjx8wCKvIy5gglo5i3HN.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w1280/uFvueAhlKsXQacjiKxGBgnBqarf.jpg",
+        "genres": ["Drama"],
+        "rating": "U/A 16+",
+        "score": 7.0,
+        "durationMinutes": 92,
+        "releaseYear": 2021,
+        "description": "A truffle hunter living alone in the Oregon wilderness must return to his past in Portland to find his kidnapped foraging pig.",
+        "cast": [
+          { "characterName": "Robin Feld", "actorName": "Nicolas Cage", "photoUrl": "https://i.pravatar.cc/150?img=39" },
+          { "characterName": "Amir", "actorName": "Alex Wolff", "photoUrl": "https://i.pravatar.cc/150?img=40" }
+        ]
+      },
+      {
+        "id": "g5",
+        "title": "Hereditary",
+        "posterUrl": "https://image.tmdb.org/t/p/w780/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w1280/gJbTXKNTL6O7r7PzF6ZRkJGBlPp.jpg",
+        "genres": ["Horror", "Drama"],
+        "rating": "U/A 16+",
+        "score": 7.3,
+        "durationMinutes": 127,
+        "releaseYear": 2018,
+        "description": "A grieving family is haunted by tragic and disturbing occurrences, unraveling dark secrets that connect them to a sinister lineage.",
+        "cast": [
+          { "characterName": "Annie Graham", "actorName": "Toni Collette", "photoUrl": "https://i.pravatar.cc/150?img=41" },
+          { "characterName": "Peter Graham", "actorName": "Alex Wolff", "photoUrl": "https://i.pravatar.cc/150?img=42" }
+        ]
+      },
+      {
+        "id": "g6",
+        "title": "The Lighthouse",
+        "posterUrl": "https://image.tmdb.org/t/p/w780/f1tIYarTbkBdIT1aW0gzelDwknv.jpg",
+        "backdropUrl": "https://image.tmdb.org/t/p/w1280/sYLzRuEcwSz0L1Z92wQNrETHU9O.jpg",
+        "genres": ["Horror", "Drama", "Fantasy"],
+        "rating": "U/A 16+",
+        "score": 7.4,
+        "durationMinutes": 109,
+        "releaseYear": 2019,
+        "description": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
+        "cast": [
+          { "characterName": "Ephraim Winslow", "actorName": "Robert Pattinson", "photoUrl": "https://i.pravatar.cc/150?img=43" },
+          { "characterName": "Thomas Wake", "actorName": "Willem Dafoe", "photoUrl": "https://i.pravatar.cc/150?img=44" }
+        ]
+      }
+    ]
+  }
+}
