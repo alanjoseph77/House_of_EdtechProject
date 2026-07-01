@@ -16,7 +16,7 @@ export interface ContentItem {
     releaseYear: number;
     description: string;
     cast: CastMember[];
-
+    videoUrl?: string;
 }
 
 export interface ContentRow{

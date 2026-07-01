@@ -33,7 +33,7 @@ A high-fidelity React Native (Expo) clone inspired by Disney+ Hotstar, built as 
 ### Install & Run
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/alanjoseph77/House_of_EdtechProject.git
 cd BundleTest
 npm install
 npx expo start
@@ -136,4 +136,3 @@ git remote add origin <your-empty-github-repo-url>
 git push -u origin main
 ```
 
-(`<your-empty-github-repo-url>` is the URL GitHub gives you after creating a new, empty repository — e.g. `https://github.com/your-username/house-of-edtech-clone.git`.)

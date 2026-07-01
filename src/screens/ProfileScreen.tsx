@@ -7,6 +7,7 @@ import { ProfileHeader } from '../components/profile/ProfileHeader';
 import { StatsRow } from '../components/profile/StatsRow';
 import { SettingsSectionView } from '../components/profile/SettingsSectionView';
 import { ProfileSkeleton } from '../components/profile/ProfileSkeleton';
+import { AppIconPicker } from '../components/profile/AppIconPicker';
 import { useTheme } from '../theme/ThemeContext';
 
 export default function ProfileScreen() {
@@ -90,6 +91,8 @@ export default function ProfileScreen() {
       />
 
       <StatsRow stats={profile.stats} />
+
+      <AppIconPicker />
 
       {profile.settingsSections.map((section) => (
         <SettingsSectionView

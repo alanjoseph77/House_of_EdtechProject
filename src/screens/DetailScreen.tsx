@@ -1,5 +1,6 @@
 import { useEffect, useState, useCallback } from 'react';
 import { View, Text, Alert } from 'react-native';
+import { DEMO_HLS_URL } from '../constants/media';
 import { Chip, Button } from 'react-native-paper';
 import { Image } from 'expo-image';
 import Animated, { useAnimatedScrollHandler, useSharedValue } from 'react-native-reanimated';
@@ -62,10 +63,13 @@ export default function DetailScreen({ route, navigation }: Props) {
 
   const handleBackPress = useCallback(() => navigation.goBack(), [navigation]);
   const toggleMyList = useCallback(() => setInMyList((prev) => !prev), []);
-  const handlePlay = useCallback(
-    () => Alert.alert('Play', 'This feature is coming soon.'),
-    []
-  );
+  const handlePlay = useCallback(() => {
+    if (!detail) return;
+    navigation.navigate('Player', {
+      videoUrl: detail.item.videoUrl ?? DEMO_HLS_URL,
+      title: detail.item.title,
+    });
+  }, [navigation, detail]);
   const handleDownload = useCallback(
     () => Alert.alert('Download', 'This feature is coming soon.'),
     []
