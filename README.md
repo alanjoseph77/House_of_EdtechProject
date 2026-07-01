@@ -1,5 +1,7 @@
 # HouseOfEdtechClone
 
+**Repository:** https://github.com/alanjoseph77/House_of_EdtechProject
+
 A high-fidelity React Native (Expo) clone inspired by Disney+ Hotstar, built as a production-style content streaming app with a Home feed, a rich Detail screen, and a Profile/Settings screen.
 
 ## Tech Stack
@@ -132,7 +134,7 @@ From the project root:
 git add -A
 git commit -m "Initial commit: House of Edtech assessment submission"
 git branch -M main
-git remote add origin <your-empty-github-repo-url>
+git remote add origin https://github.com/alanjoseph77/House_of_EdtechProject.git
 git push -u origin main
 ```
 
